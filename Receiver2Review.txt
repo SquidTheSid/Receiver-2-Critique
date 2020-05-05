@@ -1,21 +1,23 @@
+Receiver 2 Critique: Misfire
+
 Modern military shooters fetishize firearms. These games maintain a facade of
 authenticity, yet their weapon mechanics are anything but realistic. That's why
 I find Receiver's deconstruction of the genre to be so fascinating, as guns are
 extremely dangerous to handle. Failing to perform adequate safety precautions
 can and will result in negligent discharges. Of course, there's more to a
-shooter than just weapon handling, so let's see how Receiver 2 succeeds as a
+shooter than weapon handling, so let's see how Receiver 2 fares as a
 complete package.
 
 The game's introduction is rough. While the tutorial introduces you to some of
-the essential mechanics, it fails to describe systems in adequate detail. For
+the essential mechanics, it fails to describe systems in sufficient detail. For
 example, you're left to figure out how player health works, as there's no HUD
 indicator to tell you what's going on. This is fine for enemy turrets, since
 it's easy enough to understand that a bullet will kill you instantly. However,
 negligent discharges and environmental damage are much more difficult to figure
 out since there's no clear player feedback given.
 
-So, let me break these systems and describe them as simply as I can. 1 enemy bullet
-will kill the player regardless of entry point. However, excluding the Desert
+Let me describe these systems as as simply as I can. 1 enemy bullet will kill
+you instantly regardless of its entry point. However, excluding the Desert
 Eagle, you can take one negligent discharge from your own firearm before you
 die. 
 
@@ -24,7 +26,39 @@ off of a different ruleset. Depending on its velocity, environmental damage
 will either outright kill you or make you temporarily limp for a few seconds.
 If you don't sustain another injury while limping, your body will return to
 normal status, where you can then take another instance of environmental
-damage. Therefore, it's possible to chain together limps so long as they're
-timed properly, but it's obviously not recommended.  
+damage. Therefore, it's possible to chain together limps infinitely so long as
+they're timed properly, but it's obviously not recommended.  
 
-Similarly, guns are tricky to understand if you've never fired one in real life. I haven't, so I had to look up instructional tutorials from real life firearms instructors. 
+To get more information about your firearm, you need to scrounge through its
+lore entry or squint at the contextual tooltips, but neither of
+these are adequate substitutes for a proper tutorial. Maybe it's because I've
+never touched a gun in real life, so concepts like racking back a
+pistol's slide to inspect the chamber or manually decocking a revolver's hammer
+are unfamiliar to me, but I shouldn't have to resort to looking up gun safety
+videos online to figure this out. 
+
+Let me describe how firearms control in Receiver 2, since they're much closer
+to their real life counterparts than other video games. Your pistols are split
+into two categories: revolvers, and semi/fully automatic. 
+
+With revolvers, you'll either have a Colt Single Action Army or a Colt Double
+Action Detective Special. The major difference between these two is that the
+Detective Special's double action trigger will cock the gun's hammer when you
+fire the gun. With the single action Army revolver, you must manually cock the
+hammer each time you want to fire the shot. Reloading is also extremely
+different between the two. The Detective Special is fairly straightforward, as
+you need to pull out the cylinder, dump out its rounds, and manually load in
+bullets. The army revolver is much trickier. You need to half cock the hammer,
+pull out a spent round, and replace it with a fresh bullet. If you want to
+reload the entire gun, you'll need to manually spin the cylinder and repeat
+this process for all six rounds. 
+
+Although it's much more cumbersome to use, I prefer the Single Action Army for
+one reason: safety. Though the double action trigger makes the Detective
+Special more convenient to use, you always need to worry about negligent
+discharges, from forgetting to manually uncock the hammer or forgetting to
+empty the cylinder before you holster the gun. This isn't a problem for the SAA
+as it will never fire unless you manually cock the hammer. Thus, I've never
+shot myself in the leg with it, whereas the Detective Special has ended runs. 
+
+Semi/fully automatic pistols 
