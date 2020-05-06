@@ -14,7 +14,7 @@ example, you're left to figure out how player health works, as there's no HUD
 indicator to tell you what's going on. This is fine for enemy turrets, since
 it's easy enough to understand that a bullet will kill you instantly. However,
 negligent discharges and environmental damage are much more difficult to figure
-out since there's no clear player feedback given.
+out.
 
 Let me describe these systems as as simply as I can. 1 enemy bullet will kill
 you instantly regardless of its entry point. However, excluding the Desert
@@ -38,8 +38,8 @@ are unfamiliar to me, but I shouldn't have to resort to looking up gun safety
 videos online to figure this out. 
 
 Let me describe how firearms control in Receiver 2, since they're much closer
-to their real life counterparts than other video games. Your pistols are split
-into two categories: revolvers, and semi/fully automatic. 
+to their real life counterparts than other video games. Your guns are split
+into two categories: revolvers, and semi/fully automatic pistols. 
 
 With revolvers, you'll either have a Colt Single Action Army or a Colt Double
 Action Detective Special. The major difference between these two is that the
@@ -61,4 +61,27 @@ empty the cylinder before you holster the gun. This isn't a problem for the SAA
 as it will never fire unless you manually cock the hammer. Thus, I've never
 shot myself in the leg with it, whereas the Detective Special has ended runs. 
 
-Semi/fully automatic pistols 
+Semi automatic pistols utilize magazines rather than cylinders. Each round must
+be individually loaded into each magazine before it can be used in the gun.
+Once the magazine has been equipped, you need to manually chamber the round.
+Additionally, some weapons like the Beretta M9 have safeties that must be
+toggled off. 
+
+Like the Detective Special, I've got mixed feelings on this weapon category.
+While semiautomatic pistols have have much larger ammo reserves and are more
+convenient to use in a firefight, they require more preparation than a revolver
+and are extremely prone to negligent discharges if you forget to unchamber your
+rounds. Though there are many ways to safely carry around these weapons, I
+found the most convenient option was to simply keep my rounds unchambered until
+I found an enemy. 
+
+Overall, the guns are easily Receiver 2's greatest strength. Even though every
+weapon you get is a pistol, the impressively detailed weapon models and
+ballistics make them feel distinct from each other, albeit less so with semi
+automatics. I like how you're forced to create mental checklists of the step
+you need to perform to maintain your gun, lest you end up shooting yourself in
+the leg. 
+
+However, this is where my praise of the game ends, as this exceptional firearm
+system is inserted into an exceedingly mediocre game riddled with catastrophic
+bugs and needless repetition.  
