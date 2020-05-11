@@ -1,12 +1,9 @@
 Receiver 2 Critique: Misfire
 
-Modern military shooters fetishize firearms. These games maintain a facade of
-authenticity, yet their weapon mechanics are anything but realistic. That's why
-I find Receiver 2's deconstruction of the genre to be so fascinating, as guns are
-extremely dangerous to use. Failing to perform adequate safety precautions
-can and will result in negligent discharges. Of course, there's more to a
-shooter than weapon handling, so let's see how Receiver 2 fares as a
-complete package.
+I find Receiver 2 to be a fascinating deconstruction of the FPS genre, as guns
+are highly lethal. Failing to perform adequate safety precautions can and will
+result in negligent discharges. Of course, there's more to a shooter than
+weapon handling, so let's see how Receiver 2 fares as a complete package.
 
 The game's introduction is rough. While the tutorial introduces you to
 mechanics like jumping or crouching, it fails to describe its systems in
@@ -19,7 +16,11 @@ difficult to figure out.
 Let me describe these systems as as simply as I can. 1 enemy bullet will kill
 you instantly regardless of its entry point. However, excluding the Desert
 Eagle, you can take one negligent discharge from your own firearm before you
-die. 
+die. As for what actually causes a negligent discharge, it seems to be based on
+random chance whenever you holster your gun. The game claims that holding the
+button will reduce the chance of a misfire due to having a slower animation,
+but I haven't noticed a speed difference between tapping and holding the
+holster key. 
 
 Environmental damage inflicted by flying glass shards or from falling operates
 off of a different ruleset. Depending on its velocity, environmental damage
@@ -139,13 +140,13 @@ have a decent chance of dropping a recording upon death, but it's not high
 enough to reliably count on. As a result, depending on RNG, you can either
 spend a few minutes or a whole hour in a single level.  
 
-What drives this reptition to the point of frustration is the assbackwards
+What drives this reptition to the point of frustration is the bassackwards
 death system. When you die in Receiver 2, you become demoted, forcing you
 replay the previous level before you can reattempt the current one. In theory,
 this system heavily punishes you for being sloppy, forcing you to be methodical
 in your approach. In reality, this just means that you end up having to repeat
 several hours of progress in identical looking levels with identical looking
-enemies hunting down RNG objectives because you made one fuckup. I suspect this
+enemies hunting down RNG objectives because you made one mistake. I suspect this
 is an attempt to pad out the game's run time like in roguelikes, as you could
 beat Receiver 2's campaign in an hour or two otherwise.  The thing is,
 roguelikes generally have a lot of environmental, enemy, and item variety that
@@ -173,7 +174,7 @@ otherwise stagnant genre while simultaneously promoting real life gun safety.
 However, I can't say that it's a good game, given its terrible level design,
 frustrating design decisions, and plethora of destructive bugs. Hopefully
 Wolfire or another developer will build upon this concept and make a truly
-exceptional realistic shooter with an emphasis on gun safety.
+exceptional shooter with an emphasis on gun safety.
 
 Thank you very much for watching. I want to thank Wolfire for giving me a
 review key and for providing technical support. The Borderlands 3 video is
