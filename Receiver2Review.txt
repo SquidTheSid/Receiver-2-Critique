@@ -6,7 +6,7 @@ result in negligent discharges. Of course, there's more to a shooter than
 weapon handling, so let's see how Receiver 2 fares as a complete package.
 
 The game's introduction is rough. While the tutorial introduces you to
-mechanics like jumping or crouching, it fails to describe its systems in
+mechanics like jumping and crouching, it fails to describe its systems in
 sufficient detail. For example, you're left to figure out how player health
 works, as there's no HUD element to tell you what's going on. This is fine for
 enemy turrets, since it's easy to understand that a bullet will outright kill
@@ -16,19 +16,18 @@ difficult to figure out.
 Let me describe these systems as as simply as I can. 1 enemy bullet will kill
 you instantly regardless of its entry point. However, excluding the Desert
 Eagle, you can take one negligent discharge from your own firearm before you
-die. As for what actually causes a negligent discharge, it seems to be purely
-based on RNG. The game claims that holding the holster button will reduce the
-chance of a misfire due to having a slower animation, but I haven't noticed a
-speed difference between tapping and holding the key, so I'm not sure if that
-mechanic is bugged. 
+die. As for what actually causes a negligent discharge, it seems to be based on
+RNG. The game claims that holding the holster button will reduce the chance of
+a misfire due to having a slower animation, but there is no visual difference
+between tapping and holding the key, so I'm not sure if the mechanic is bugged. 
 
 Environmental damage inflicted by flying glass shards or from falling operates
 off of a different ruleset. Depending on its velocity, environmental damage
 will either outright kill you or make you temporarily limp for a few seconds.
 If you don't sustain another injury while limping, your body will return to
 normal status, where you can then take another instance of environmental
-damage. Therefore, it's possible to chain together limps infinitely so long as
-they're timed properly, but it's obviously not recommended.  
+damage. Therefore, it's possible to chain together limps so long as they're
+timed properly.
 
 To get more information about your firearm, you need to scrounge through its
 respective codex entry or squint at the contextual tooltips, but neither of
@@ -55,15 +54,15 @@ six rounds.
 
 Although it's much more cumbersome to use, I prefer the Peacemaker for one
 reason: safety. Though the double action trigger makes the Detective Special
-more convenient to use, you always need to worry about negligent discharges,
-from forgetting to manually uncock the hammer or forgetting to empty the
-cylinder before you holster the gun. This isn't a problem for the SAA as it
-will never fire unless you manually cock the hammer. Thus, I've never shot
-myself in the leg with it, whereas the Detective Special has ended runs. 
+more convenient to use, you always need to worry about negligent discharges, as
+it's easy to forget to manually uncock the hammer or to empty the cylinder
+before you holster the gun. This isn't a problem for the SAA as it will never
+fire unless you manually cock the hammer. Thus, I've never shot myself in the
+leg with it, whereas the Detective Special has ended runs. 
 
 Semi automatic pistols like the Colt M1911 or Beretta M9 utilize magazines
 rather than cylinders. Each round must be individually loaded into said
-magazines before it can be used in the gun.  Once the magazine has been
+magazines before they can be used in the gun.  Once the magazine has been
 equipped, you need to manually chamber the round.  Additionally, most of these
 firearms have safeties that must be toggled off to fire the gun. 
 
@@ -79,20 +78,20 @@ Overall, the guns are easily Receiver 2's greatest strength. Even though every
 firearm you get is some variation of a pistol, the impressively detailed weapon
 models and ballistics make them feel distinct from each other, albeit less so
 with semi automatics. I like how you're forced to create mental checklists of
-the steps you need to perform to maintain your gun after every encounter, lest
-you end up shooting yourself in the leg. In theory, this creates some truly
-hectic firefights as you need to constantly worry about your firearm's
-condition while being shot at. 
+the maintenance you need to performance on your gun after every encounter, as
+this deepens the physical relationship you have with your gun. This system
+truly creates some hectic firefights as you need to constantly worry about your
+firearm's condition while being shot at. 
 
 However, this is where my praise of the game ends, as this exceptional firearm
-system is inserted into an exceedingly mediocre game riddled with catastrophic
+handling is inserted into an otherwise mediocre game riddled with catastrophic
 bugs and obscene repetition.  
 
 What really lets down the gunplay for me are the uninteresting enemies. There
 are a total of two types in this game: stationary turrets and drones. While
 there are some mechanical differences between turret types, such as armored or
 proximity stealth variants, their overall behaviors are identical. They'll emit
-out a beam of light in front of them. as they scan from location to location.
+out a beam of light in front of them, as they scan from location to location.
 To defeat them, you'll need to place a shot in one of their three weakpoints:
 their ammo boxes to empty out their rounds, their turning gyro to disable
 aiming, or their camera to make them effectively blind. Once you do any of
@@ -104,7 +103,7 @@ Drones are a bit more interesting in that they're not immobile threats. They'll
 actively move around in a fixed pattern with a wide detection radius. If you're
 spotted, they will relentlessly chase after you and tase you to death. To
 escape them, you'll need to juke around corners and rooms to stop them from
-pursuing you any further. While these pursuits are fun and are incredibly
+hunting you any further. While these pursuits are fun and are incredibly
 tense, you'll never be on one unless you're reckless, as drones have obvious
 visual and audio cues to their position and can be taken out with one body
 shot.  
@@ -115,7 +114,6 @@ in sweeping through rooms. Because as it is, the game doesn't punish me for
 keeping my gun unloaded before every firefight, since I know I'll never be
 ambushed. This also would've made for an interesting PVP mode, as two alternate
 reality players could hunt down each other.
-
 
 For all intents and purposes, Receiver 2 has one level that you replay over and
 over with some minor changes in lighting. It has procedural room arrangement to
@@ -131,13 +129,13 @@ multiple levels of elevation,so you can snipe turrets from afar. However, due
 to the inconsistent fall damage, you can't really exploit verticality to ambush
 foes without becoming a sitting duck.
 
-
 After an hour of play, I got sick of seeing the exact same apartment and
-warehouse tiles spammed over and over and over again. Given that Receiver 2's
-story involves multiple in-game realities, I don't see why the developers
+warehouse tiles being spammed over and over and over again. Given that Receiver
+2's story involves multiple in-game realities, I don't see why the developers
 couldn't have distorted the tilesets to get more effective reuse out of them.
 Rooms could have their gravity inverted, forcing you to play on the ceiling.
-Other tilesets could've scaled up or down in size like in Alice in Wonderland. 
+Other tilesets could've be scaled up or down in size like in Alice in
+Wonderland. 
 
 Adding to sense of repetition, the objectives in each mission are exactly the
 same, with you going on a blind scavenger hunt for easy-to-miss audio tapes.
@@ -148,19 +146,23 @@ have a decent chance of dropping a recording upon death, but it's not high
 enough to reliably count on. As a result, depending on RNG, you can either
 spend a few minutes or a whole hour in a single level.  
 
-What drives this reptition to the point of frustration is the bassackwards
+What drives this repetition to the point of frustration is the bassackwards
 death system. When you die in Receiver 2, you become demoted, forcing you
 replay the previous level before you can reattempt the current one. In theory,
 this system heavily punishes you for being sloppy, forcing you to be methodical
 in your approach. In reality, this just means that you end up having to repeat
 several hours of progress in identical looking levels with identical looking
-enemies hunting down RNG objectives because you made one mistake. I suspect this
-is an attempt to pad out the game's run time like in roguelikes, as you could
-beat Receiver 2's campaign in an hour or two otherwise.  The thing is,
-roguelikes generally have a lot of environmental, enemy, and item variety that
-keeps new runs feeling fresh whenever you have to restart. It's also possible
-to beat most of them in under half an hour if you're skilled enough.  Receiver
-2 has neither of these due to its limited tilesets and RNG objectives.
+enemies hunting down RNG objectives because you made one mistake. 
+
+I suspect this is an attempt to pad out the game's run time like in roguelikes,
+as you could beat Receiver 2's campaign in an hour or two otherwise.  The thing
+is, roguelikes generally have a lot of environmental, enemy, and item variety
+that keeps new runs feeling fresh whenever you have to restart. It's also
+possible to beat most of them in under half an hour if you're skilled enough.
+Thus, they generally don't feel like a chore to play until you've sunk dozens
+or hundreds of hours into them.  Receiver 2 has neither of these due to its
+limited tilesets, poor enemy variety, and RNG objectives, so it gets very
+tiring, very quickly.
 
 To preserve your sanity, I'd just recommend save scumming throughout the
 campaign, as if you quit the game before you die, you load back in a safe
@@ -168,7 +170,7 @@ position upon restarting the game. Given the exceedingly generous death window,
 it's entirely possible, if not trivial to brute force the entire campaign by
 save scumming.
 
-Now let's talk about the elephant in the room: bugs. they're so egregious that
+Now let's talk about the elephant in the room: bugs. They're so egregious that
 I legitimately could not beat Receiver 2 without using the debug console.
 Examples include: Loaded magazines disappearing on me for no reason, leaving me
 with no way to use my gun until I stumbled upon a new mag. Doing a stationary
@@ -178,22 +180,22 @@ the entire campaign. Perhaps your experience will differ than mine, but the
 amount of game-breaking bugs and crashes I've encountered is shocking. 
 
 Overall, Receiver 2 is a great experiment, and I love how it deconstucts an
-otherwise stagnant genre while simultaneously promoting real life gun safety.
+otherwise stagnant genre while trying to promote real life gun safety.
 However, I can't say that it's a good game, given its terrible level design,
 frustrating design decisions, and plethora of destructive bugs. Hopefully
-Wolfire or another developer will build upon this concept and make a truly
-exceptional shooter with an emphasis on gun safety.
+Wolfire games or another developer will build upon this concept and make a
+truly exceptional shooter in the future. 
 
 Thank you very much for watching. I want to thank Wolfire for giving me a
 review key and for providing technical support. The Borderlands 3 video is
 being worked on, especially now that I've finished slogging through my fourth
-and final playthrough. If you thought I was hard on Receiver 2, just you wait.
-After that, DOOM Eternal. It's a phenomenal game, what more can I say?  If
-you'd like to stay up to date on channel news, you can join the Squidcord
-discord server or follow me on Twitter. If you'd financially support this
-channel and can afford to do so in these tough times, then you can make a
-pledge on my Patreon page. 
+and final playthrough. And yeah, I'm going to eviscerate it.  After that, DOOM
+Eternal. It's a phenomenal game, probably the best FPS that's come out in
+several years, if not decades.  If you'd like to stay up to date on channel
+news, you can join the Squidcord discord server or follow me on Twitter. If
+you'd financially support this channel and can afford to do so in these tough
+times, then you can make a pledge on my Patreon page. 
 
 As always, 
 
-stay frosty.
+Stay frosty.
