@@ -2,15 +2,15 @@ Receiver 2 Critique: Misfire
 
 Modern military shooters fetishize firearms. These games maintain a facade of
 authenticity, yet their weapon mechanics are anything but realistic. That's why
-I find Receiver's deconstruction of the genre to be so fascinating, as guns are
-extremely dangerous to handle. Failing to perform adequate safety precautions
+I find Receiver 2's deconstruction of the genre to be so fascinating, as guns are
+extremely dangerous to use. Failing to perform adequate safety precautions
 can and will result in negligent discharges. Of course, there's more to a
 shooter than weapon handling, so let's see how Receiver 2 fares as a
 complete package.
 
-The game's introduction is rough. While the tutorial introduces you to some
-essential mechanics like jumping or crouching, it fails to describe its systems
-in sufficient detail. For example, you're left to figure out how player health
+The game's introduction is rough. While the tutorial introduces you to
+mechanics like jumping or crouching, it fails to describe its systems in
+sufficient detail. For example, you're left to figure out how player health
 works, as there's no HUD element to tell you what's going on. This is fine for
 enemy turrets, since it's easy to understand that a bullet will outright kill
 you. However, negligent discharges and environmental damage are much more
@@ -21,14 +21,13 @@ you instantly regardless of its entry point. However, excluding the Desert
 Eagle, you can take one negligent discharge from your own firearm before you
 die. 
 
-Environmental damage taken inflicted by flying glass shards or from falling
-from heights operates off of a different ruleset. Depending on its velocity,
-environmental damage will either outright kill you or make you temporarily limp
-for a few seconds.  If you don't sustain another injury while limping, your
-body will return to normal status, where you can then take another instance of
-environmental damage. Therefore, it's possible to chain together limps
-infinitely so long as they're timed properly, but it's obviously not
-recommended.  
+Environmental damage inflicted by flying glass shards or from falling operates
+off of a different ruleset. Depending on its velocity, environmental damage
+will either outright kill you or make you temporarily limp for a few seconds.
+If you don't sustain another injury while limping, your body will return to
+normal status, where you can then take another instance of environmental
+damage. Therefore, it's possible to chain together limps infinitely so long as
+they're timed properly, but it's obviously not recommended.  
 
 To get more information about your firearm, you need to scrounge through its
 respective codex entry or squint at the contextual tooltips, but neither of
@@ -38,13 +37,13 @@ slide to inspect the chamber or manually decocking a revolver's hammer are
 unfamiliar to me, but I shouldn't have to resort to looking up gun safety
 videos online to figure this out. 
 
-Let me describe how firearms control in Receiver 2, since they're much closer
-to their real life counterparts than other video games. Your guns are split
-into two categories: revolvers, and semi automatic pistols. 
+Let me detail the firearms in Receiver 2, since they're much closer to their
+real life counterparts than other video games. Your guns are split into two
+categories: revolvers, and semi automatic pistols. 
 
 With revolvers, you'll either have a Colt Single Action Army Peacemaker or a
 Colt Double Action Detective Special. The major difference between them is that
-the Detective Special's double action trigger will automatically cock the gun's
+the Detective Special's double action trigger will automatically cock the 
 hammer when you fire the gun. With the Peacemaker, you must manually cock the
 hammer each time you want to fire a shot. Reloading is also extremely different
 between the two. The Detective Special is fairly straightforward, as you need
@@ -71,7 +70,7 @@ firearms have safeties that must be toggled off to fire the gun.
 Like the Detective Special, I've got mixed feelings on this weapon category.
 While semiautomatic pistols have have much larger ammo reserves and are more
 convenient to use in a firefight, they require more preparation than a revolver
-and are extremely prone to negligent discharges if you forget to unchamber your
+and are prone to negligent discharges, especially if you forget to unchamber your
 rounds. Though there are many ways to safely carry around these weapons, I
 found the most convenient option was to simply keep my rounds unchambered until
 I found an enemy nearby. 
@@ -87,17 +86,17 @@ condition while being shot at.
 
 However, this is where my praise of the game ends, as this exceptional firearm
 system is inserted into an exceedingly mediocre game riddled with catastrophic
-bugs and needless repetition.  
+bugs and obscene repetition.  
 
 What really lets down the gunplay for me are the uninteresting enemies. There
 are a total of two types in this game: stationary turrets and drones. While
 there are some mechanical differences between turret types, such as armored or
 proximity stealth variants, their overall behaviors are identical. They'll emit
 out a beam of light in front of them. as they scan from location to location.
-To defeat them, you'll need to place a shot in their ammo boxes to disable
-their firing mechanism, shoot out their turning gyro to let you sneak behind
-them, or shoot out their sight to make them effectively blind. Once you do any
-of these three, you can safely hack the turret to permanently disable it. Now
+To defeat them, you'll need to place a shot in one of their three weakpoints:
+their ammo boxes to empty out their rounds, their turning gyro to disable
+aiming, or their camera to make them effectively blind. Once you do any of
+these three, you can safely hack the turret to permanently disable it. Now
 repeat this process for the dozens of turrets you'll find in the game, since
 you'll take down each one in the exact same way. 
 
@@ -105,16 +104,17 @@ Drones are a bit more interesting in that they're not immobile threats. They'll
 actively move around in a fixed pattern with a wide detection radius. If you're
 spotted, they will relentlessly chase after you and tase you to death. To
 escape them, you'll need to juke around corners and rooms to stop them from
-pursuing you any further. While these pursuits are fun and incredibly tense,
-you'll probably never be on one unless you're extremely reckless, as drone
-are always highly visible and can be taken out with one body shot.  
+pursuing you any further. While these pursuits are fun and are incredibly
+tense, you'll never be on one unless you're reckless, as drones have obvious
+visual and audio cues to their position and can be taken out with one body
+shot.  
 
 I would've liked to see an enemy type that actively kept me on my toes, one
 that is constantly hunting me down and prevents me from being overly cautious
 in sweeping through rooms. Because as it is, the game doesn't punish me for
 keeping my gun unloaded before every firefight, since I know I'll never be
-ambushed.  As a result, I rarely have to worry about negligent discharges, the
-central mechanic forcing me to be slow and methodical.
+ambushed. This also would've made for an interesting PVP mode, as two alternate
+reality players could hunt down each other.
 
 
 For all intents and purposes, Receiver 2 has one level that you replay over and
@@ -132,19 +132,18 @@ scaled up or down in size like in Alice in Wonderland.
 
 Adding to sense of repetition, the objectives in each mission are exactly the
 same, with you going on a blind scavenger hunt for easy-to-miss audio tapes.
-It also really doesn't help that these spawn in randomly, so there's no logical
-way to deduce their location and seek them out. You just have to drunkenly
-stumble around in darkly lit rooms praying that you actually find one. Enemy
-turrets do have a decent chance of dropping a recording upon death, but the
-drop rate isn't high enough to reliably count on. As a result, depending on
-RNG, you can either spend a few minutes or a whole hour in a single level.  
-
+It really doesn't help that these spawn in randomly, so there's no logical way
+to deduce their location and seek them out. You just have to drunkenly stumble
+around in darkly lit rooms praying that you actually find one. Enemy turrets do
+have a decent chance of dropping a recording upon death, but it's not high
+enough to reliably count on. As a result, depending on RNG, you can either
+spend a few minutes or a whole hour in a single level.  
 
 What drives this reptition to the point of frustration is the assbackwards
 death system. When you die in Receiver 2, you become demoted, forcing you
 replay the previous level before you can reattempt the current one. In theory,
-this system heavily punishes you for being sloppy, forcing you to be slow and
-meticulous. In reality, this just means that you end up having to repeat
+this system heavily punishes you for being sloppy, forcing you to be methodical
+in your approach. In reality, this just means that you end up having to repeat
 several hours of progress in identical looking levels with identical looking
 enemies hunting down RNG objectives because you made one fuckup. I suspect this
 is an attempt to pad out the game's run time like in roguelikes, as you could
@@ -160,7 +159,7 @@ position upon restarting the game. Given the exceedingly generous death window,
 it's entirely possible, if not trivial to brute force the entire campaign by
 save scumming.
 
-Let's now talk about the elephant in the room: bugs. they're so egregious that
+Now let's talk about the elephant in the room: bugs. they're so egregious that
 I legitimately could not beat Receiver 2 without using the debug console.
 Examples include: Loaded magazines disappearing on me for no reason, leaving me
 with no way to use my gun until I stumbled upon a new mag. Doing a stationary
