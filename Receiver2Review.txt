@@ -16,11 +16,11 @@ difficult to figure out.
 Let me describe these systems as as simply as I can. 1 enemy bullet will kill
 you instantly regardless of its entry point. However, excluding the Desert
 Eagle, you can take one negligent discharge from your own firearm before you
-die. As for what actually causes a negligent discharge, it seems to be based on
-random chance whenever you holster your gun. The game claims that holding the
-button will reduce the chance of a misfire due to having a slower animation,
-but I haven't noticed a speed difference between tapping and holding the
-holster key. 
+die. As for what actually causes a negligent discharge, it seems to be purely
+based on RNG. The game claims that holding the holster button will reduce the
+chance of a misfire due to having a slower animation, but I haven't noticed a
+speed difference between tapping and holding the key, so I'm not sure if that
+mechanic is bugged. 
 
 Environmental damage inflicted by flying glass shards or from falling operates
 off of a different ruleset. Depending on its velocity, environmental damage
@@ -38,9 +38,8 @@ slide to inspect the chamber or manually decocking a revolver's hammer are
 unfamiliar to me, but I shouldn't have to resort to looking up gun safety
 videos online to figure this out. 
 
-Let me detail the firearms in Receiver 2, since they're much closer to their
-real life counterparts than other video games. Your guns are split into two
-categories: revolvers, and semi automatic pistols. 
+You have two categories of guns in Receiver 2: revolvers, and semi automatic
+pistols. 
 
 With revolvers, you'll either have a Colt Single Action Army Peacemaker or a
 Colt Double Action Detective Special. The major difference between them is that
@@ -121,15 +120,24 @@ reality players could hunt down each other.
 For all intents and purposes, Receiver 2 has one level that you replay over and
 over with some minor changes in lighting. It has procedural room arrangement to
 keep things fresh, but this system has two major issues.  The chief problem is
-that there simply aren't enough tilesets in the game, with there being a total
-of 16 spanning all five missions. Furthermore, identical rooms are often placed
-directly next to each other, heightening the deja vu.  After an hour of play, I
-got sick of seeing the exact same apartment and warehouse tiles spammed over
-and over and over again. Given that Receiver 2's story involves multiple
-in-game realities, I don't see why the developers couldn't have distorted the
-tilesets to get more effective reuse out of them. Rooms could have their
-gravity inverted, forcing you to play on the ceiling. Other tilesets could've
-scaled up or down in size like in Alice in Wonderland. 
+that there simply aren't enough tilesets in the game, with there being a grand
+total of 16 spanning all five missions. Furthermore, identical rooms are often
+placed directly next to each other, heightening the sense of deja vu. Even
+then, there's not much variety between the tiles themselves, as most of them
+are variations of corridors littered with cover and chokepoints. As a result,
+it becomes incredibly easy to break turret and drone line of sight, removing a
+lot of the challenge from the game. There are some more open areas with
+multiple levels of elevation,so you can snipe turrets from afar. However, due
+to the inconsistent fall damage, you can't really exploit verticality to ambush
+foes without becoming a sitting duck.
+
+
+After an hour of play, I got sick of seeing the exact same apartment and
+warehouse tiles spammed over and over and over again. Given that Receiver 2's
+story involves multiple in-game realities, I don't see why the developers
+couldn't have distorted the tilesets to get more effective reuse out of them.
+Rooms could have their gravity inverted, forcing you to play on the ceiling.
+Other tilesets could've scaled up or down in size like in Alice in Wonderland. 
 
 Adding to sense of repetition, the objectives in each mission are exactly the
 same, with you going on a blind scavenger hunt for easy-to-miss audio tapes.
