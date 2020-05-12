@@ -84,9 +84,9 @@ this deepens the physical relationship you have with it. This system truly
 creates some hectic firefights as you need to constantly worry about your
 firearm's condition while being shot at. 
 
-However, this is where my praise of the game ends, as this exceptional firearm
-handling is inserted into an otherwise mediocre game riddled with catastrophic
-bugs and obscene repetition.  
+Unfortunately, this is where my praise of the game ends, as this exceptional
+firearm handling is inserted into a game riddled with catastrophic bugs and
+obscene repetition.  
 
 What really lets down the gunplay for me are the uninteresting enemies. There
 are a total of two types in this game: stationary turrets and drones. While
@@ -175,9 +175,9 @@ I legitimately could not beat Receiver 2 without using the debug console.
 Examples include: Loaded magazines disappearing on me for no reason, leaving me
 with no way to use my gun until I stumbled upon a new mag. Doing a stationary
 jump or falling from any distance resulting in instant death, no matter the
-height. The game resetting all of my current progress and forcing me to restart
-the entire campaign. Perhaps your experience will differ than mine, but the
-amount of game-breaking bugs and crashes I've encountered is shocking. 
+height. The game stuck on an infinite initial loading screen due to a null json
+reference. Perhaps your experience will differ than mine, but the amount of
+game-breaking bugs and crashes I've encountered is shocking. 
 
 Overall, Receiver 2 is a great experiment, and I love how it deconstucts an
 otherwise stagnant genre while trying to promote real life gun safety.
