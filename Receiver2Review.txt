@@ -17,9 +17,10 @@ Let me describe these systems as as simply as I can. 1 enemy bullet will kill
 you instantly regardless of its entry point. However, excluding the Desert
 Eagle, you can take one negligent discharge from your own firearm before you
 die. As for what actually causes a negligent discharge, it seems to be based on
-RNG. The game claims that holding the holster button will reduce the chance of
-a misfire due to having a slower animation, but there is no visual difference
-between tapping and holding the key, so I'm not sure if the mechanic is bugged. 
+random chance. The game claims that holding the holster button will reduce the
+chance of a misfire due to having a slower animation, but there is no visual
+difference between tapping and holding the key, so I'm not sure if the mechanic
+is bugged. 
 
 Environmental damage inflicted by flying glass shards or from falling operates
 off of a different ruleset. Depending on its velocity, environmental damage
@@ -79,8 +80,8 @@ firearm you get is some variation of a pistol, the impressively detailed weapon
 models and ballistics make them feel distinct from each other, albeit less so
 with semi automatics. I like how you're forced to create mental checklists of
 the maintenance you need to performance on your gun after every encounter, as
-this deepens the physical relationship you have with your gun. This system
-truly creates some hectic firefights as you need to constantly worry about your
+this deepens the physical relationship you have with it. This system truly
+creates some hectic firefights as you need to constantly worry about your
 firearm's condition while being shot at. 
 
 However, this is where my praise of the game ends, as this exceptional firearm
@@ -125,9 +126,9 @@ then, there's not much variety between the tiles themselves, as most of them
 are variations of corridors littered with cover and chokepoints. As a result,
 it becomes incredibly easy to break turret and drone line of sight, removing a
 lot of the challenge from the game. There are some more open areas with
-multiple levels of elevation,so you can snipe turrets from afar. However, due
+multiple levels of elevation, so you can snipe turrets from afar. But due
 to the inconsistent fall damage, you can't really exploit verticality to ambush
-foes without becoming a sitting duck.
+foes without becoming a sitting duck yourself.
 
 After an hour of play, I got sick of seeing the exact same apartment and
 warehouse tiles being spammed over and over and over again. Given that Receiver
@@ -141,34 +142,33 @@ Adding to sense of repetition, the objectives in each mission are exactly the
 same, with you going on a blind scavenger hunt for easy-to-miss audio tapes.
 It really doesn't help that these spawn in randomly, so there's no logical way
 to deduce their location and seek them out. You just have to drunkenly stumble
-around in darkly lit rooms praying that you actually find one. Enemy turrets do
+around in poorly lit rooms praying that you actually find one. Enemy turrets do
 have a decent chance of dropping a recording upon death, but it's not high
 enough to reliably count on. As a result, depending on RNG, you can either
 spend a few minutes or a whole hour in a single level.  
 
-What drives this repetition to the point of frustration is the bassackwards
-death system. When you die in Receiver 2, you become demoted, forcing you
-replay the previous level before you can reattempt the current one. In theory,
-this system heavily punishes you for being sloppy, forcing you to be methodical
-in your approach. In reality, this just means that you end up having to repeat
-several hours of progress in identical looking levels with identical looking
-enemies hunting down RNG objectives because you made one mistake. 
+What drives this repetition to the point of absolute frustration is the
+bassackwards death system. When you die in Receiver 2, you become demoted,
+forcing you replay the previous level before you can reattempt the current one.
+In theory, this system heavily punishes you for being sloppy, forcing you to be
+methodical in your approach. In reality, this just means that you end up having
+to repeat several hours of progress in identical looking levels with identical
+looking enemies hunting down RNG objectives because you made one mistake. 
 
-I suspect this is an attempt to pad out the game's run time like in roguelikes,
+I suspect this is an attempt to pad out the game's run time like in roguelites,
 as you could beat Receiver 2's campaign in an hour or two otherwise.  The thing
-is, roguelikes generally have a lot of environmental, enemy, and item variety
-that keeps new runs feeling fresh whenever you have to restart. It's also
-possible to beat most of them in under half an hour if you're skilled enough.
-Thus, they generally don't feel like a chore to play until you've sunk dozens
-or hundreds of hours into them.  Receiver 2 has neither of these due to its
-limited tilesets, poor enemy variety, and RNG objectives, so it gets very
+is, roguelites generally have a lot of environmental, enemy, and item variety
+to keep new runs feeling fresh whenever you restart. It's also possible to beat
+most of them in under half an hour if you're skilled enough.  Thus, they
+generally don't feel like a chore to play until you've sunk dozens or hundreds
+of hours into them and seen everything.  Receiver 2 has neither of these due to
+its limited tilesets, poor enemy variety, and RNG objectives, so it gets very
 tiring, very quickly.
 
 To preserve your sanity, I'd just recommend save scumming throughout the
-campaign, as if you quit the game before you die, you load back in a safe
-position upon restarting the game. Given the exceedingly generous death window,
-it's entirely possible, if not trivial to brute force the entire campaign by
-save scumming.
+campaign, as if you quit before you die, you load back in a safe position upon
+restarting the game. Given the exceedingly generous death window, it's entirely
+possible, if not trivial to brute force the entire campaign by save scumming.
 
 Now let's talk about the elephant in the room: bugs. They're so egregious that
 I legitimately could not beat Receiver 2 without using the debug console.
@@ -181,20 +181,20 @@ amount of game-breaking bugs and crashes I've encountered is shocking.
 
 Overall, Receiver 2 is a great experiment, and I love how it deconstucts an
 otherwise stagnant genre while trying to promote real life gun safety.
-However, I can't say that it's a good game, given its terrible level design,
+However, I can't say that it's a good game, given its repetitive level design,
 frustrating design decisions, and plethora of destructive bugs. Hopefully
-Wolfire games or another developer will build upon this concept and make a
+Wolfire games or another developer will build upon these concepts and make a
 truly exceptional shooter in the future. 
 
 Thank you very much for watching. I want to thank Wolfire for giving me a
 review key and for providing technical support. The Borderlands 3 video is
 being worked on, especially now that I've finished slogging through my fourth
-and final playthrough. And yeah, I'm going to eviscerate it.  After that, DOOM
-Eternal. It's a phenomenal game, probably the best FPS that's come out in
-several years, if not decades.  If you'd like to stay up to date on channel
-news, you can join the Squidcord discord server or follow me on Twitter. If
-you'd financially support this channel and can afford to do so in these tough
-times, then you can make a pledge on my Patreon page. 
+and final playthrough. And yeah, I'm going to eviscerate it.  After that, a
+video on DOOM Eternal, which is probably the FPS I've played in the past
+decade.  If you'd like to stay up to date on channel news, you can join the
+Squidcord discord server or follow me on Twitter @SquidTheSid1. If you'd
+financially support this channel and can afford to do so in these tough times,
+then you can make a pledge on my Patreon page over at Patreon.com/SquidTheSid. 
 
 As always, 
 
